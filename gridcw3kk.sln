@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gridcw3kk", "gridcw3kk\gridcw3kk.csproj", "{BAE3AFDB-93E9-4A5C-BFA3-C15E0BA9D38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE3AFDB-93E9-4A5C-BFA3-C15E0BA9D38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE3AFDB-93E9-4A5C-BFA3-C15E0BA9D38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE3AFDB-93E9-4A5C-BFA3-C15E0BA9D38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE3AFDB-93E9-4A5C-BFA3-C15E0BA9D38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF20E8E-4342-4E8B-85CB-5C10C75A7B00}
+	EndGlobalSection
+EndGlobal
